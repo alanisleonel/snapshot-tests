@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="code.jpeg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Leonel Alanis
+      </div>
+      <p
+        className="card-text"
+      >
+        I am a Full Stack developer!
+      </p>
+    </div>
+  </div>
+</div>
+`;
